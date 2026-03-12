@@ -1,0 +1,37 @@
+body{
+    background-color: #F8B3F9;
+    font-style: inherit;
+}
+
+
+.calc{
+    background-color: #D7C0D0;
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+    border-style: double;
+    border-radius: 50px;
+    text-align: center;
+    border-color: #593E1E;
+}
+
+
+
+.welcome_sign{
+   background-color: #FFC0C0;
+   width: 30%; 
+   text-align: center;
+   height: 20;
+   border-radius: 35px;
+   border-color: #8558B2;
+   border-style: dashed;
+}
+
+
+button{
+    border-radius: 20px;
+    background-color:#F7C7DB;
+    
+
+
+}
